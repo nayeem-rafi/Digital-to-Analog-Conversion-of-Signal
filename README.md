@@ -1,4 +1,7 @@
 # Digital Signal Processing (DSP) - Digital to Analog Conversion (DAC)
+By [Naimur Rahman](https://github.com/nayeem-rafi)
+
+## [Click for Files](https://drive.google.com/drive/folders/16pRQ0oPXqY4fPDopgF0g5SUuCsrBDqoU?usp=drive_link)
 
 ## Introduction:
 This MATLAB code demonstrates both **Analog-to-Digital Conversion (ADC)** and **Digital-to-Analog Conversion (DAC)**. The code showcases the complete process of converting a continuous sine wave into its digital binary format using sampling, quantization, and encoding, followed by the recovery of the original signal from its digital representation. These concepts are foundational in many real-world applications such as audio/video processing, data communication, and control systems.
@@ -41,7 +44,8 @@ Once the signal is converted into its binary format, it is then decoded and tran
 2. **Signal Reconstruction**:  
    The reconstructed signal is obtained by converting the binary sequence back into the quantized signal values and plotting them as discrete points. This step simulates how the original signal can be recovered after transmission in a digital system.
 
-   <h1 align= "center">
+
+<h1 align= "center">
 
 **Analog Conversion**
 </h1>
